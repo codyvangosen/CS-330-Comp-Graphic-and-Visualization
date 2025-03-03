@@ -1,5 +1,7 @@
 CS-330 Computational Graphics and Visualization - Final Project
+
 Author: Cody VanGosen
+
 Course: CS-330: Computational Graphics and Visualization
 
 Project Overview
