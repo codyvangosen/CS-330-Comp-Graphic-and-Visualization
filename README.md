@@ -8,10 +8,15 @@ Project Overview
 This repository contains my final project submission for CS-330: Computational Graphics and Visualization. The project demonstrates my ability to create a fully realized 3D scene using OpenGL, incorporating lighting, textures, transformations, and object modeling.
 
 Files Included
+
 7-1_FinalProjectMilestones.zip.partaa, 7-1_FinalProjectMilestones.zip.partab - The ZIP split files containing the 3D scene project files.
+
 Final Project.docx - A document detailing the design choices made during development.
+
 README.md - Project overview and reflection.
+
 Final Render.png - Final 3D render of the scene.
+
 Original Image.png - Reference image for the initial project.
 
 Project Reflection
